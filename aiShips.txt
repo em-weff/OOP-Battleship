@@ -1,0 +1,5 @@
+Carrier,a 1,h
+Battleship,b 4,v
+Cruiser,G 4,h
+Submarine,E 9,h
+Destroyer,i 7,v
